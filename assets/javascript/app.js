@@ -1,11 +1,12 @@
 $(document).ready(function() {
     // creating an array of options all at once and putting the answer with it.
+    // i cannot get my images to load
     var options = [
         {
             question: "How big is a womp rat?",
             choice: ["Tiny", "Not much bigger than 2 meters", "1 foot across", "30 feet"],
             answer: 1,
-            photo: "assets/images/womprat.png"
+            photo: "assets/images/womprat.jpg"
         },
 
         {
