@@ -4,9 +4,9 @@ Test your knowledge of Star Wars with this quiz! https://deadmosquito.github.io/
 
 ## Built With
 
-*Bootstrap
-*jQuery
-*JavaScript
+* Bootstrap
+* jQuery
+* JavaScript
 
 ## Authors
 
